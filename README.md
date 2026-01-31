@@ -1,24 +1,3 @@
 # README
+This app is for learning, and I will skip certain things that are important in a production app, such as deliberately ignoring potential issues like database constraints, validations, ensuring uniqueness, etc. For the sake of this app, I'll disregard handling errors, among others. The purpose here is to learn JWTs in action as a form of stateless authentication to secure this Ruby application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
